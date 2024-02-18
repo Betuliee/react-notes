@@ -69,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # react-notes
+
+# Technologies
+
+- react-router-dom
+- react-icons
+- axios
+- millify
+- moment
+- react-player
+- tailwind (kurulumu sitesinde)
+
+# Resources
+
+- API: https://rapidapi.com/ytjar/api/yt-api
