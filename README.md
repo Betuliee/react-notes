@@ -78,7 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - millify
 - moment
 - react-player
-- tailwind (kurulumu sitesinde)
+- tailwind 
 
 # Resources
 
